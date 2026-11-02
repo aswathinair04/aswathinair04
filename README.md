@@ -9,6 +9,8 @@
 
 
 
+
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -31,12 +33,21 @@
 
 
 
+
+
+
+
 ### 🔒 About Me
 
 - 🎓 Computer Science Engineering Graduate
 - 🐍 Learning Python and AI
 - 📊 Exploring NumPy, Pandas, Matplotlib, Seaborn, and Plotly
 - 🤖 Learning Machine Learning algorithms and feature selection
+
+
+
+
+
 
 
 
