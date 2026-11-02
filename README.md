@@ -6,37 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;NumPy+%7C+Pandas+%F0%9F%93%8A;Matplotlib+%7C+Seaborn+%7C+Plotly+%F0%9F%93%88;Machine+Learning+%F0%9F%A4%96;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
----
-
-### 🔒 About Me
-
-- 🎓 Computer Science Engineering Graduate
-- 🐍 Learning Python and AI
-- 📊 Exploring NumPy, Pandas, Matplotlib, Seaborn, and Plotly
-- 🤖 Learning Machine Learning algorithms and feature selection
-
-### 👩‍💻 About Me
-- 🎓 Computer Science Engineering graduate
-- 🐍 Learning Python and Data Science
-- 📊 Interested in Machine Learning and Data Analysis
-- 🌱 Currently improving my programming skills
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -56,4 +25,30 @@
 </div>
 
 </div>
+
+
+### 🔒 About Me
+
+- 🎓 Computer Science Engineering Graduate
+- 🐍 Learning Python and AI
+- 📊 Exploring NumPy, Pandas, Matplotlib, Seaborn, and Plotly
+- 🤖 Learning Machine Learning algorithms and feature selection
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+
 
