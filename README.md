@@ -1,26 +1,17 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Aswathi Nair 👋</h1>
+
+<h3 align="center">Computer Science Engineering Graduate | Python Developer</h3>
+
+---
+
+### 👩‍💻 About Me
+- 🎓 Computer Science Engineering graduate
+- 🐍 Learning Python and Data Science
+- 📊 Interested in Machine Learning and Data Analysis
+- 🌱 Currently improving my programming skills
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:667EEA,100:00C9FF&height=200&section=header&text=Hi%20there,%20I'm%20Aswathi Nair%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
-
-### Computer Science Engineering Graduate | Aspiring Data Scientist
-
-*Passionate about Python, Data Analytics & Machine Learning.*
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-Hi! I'm **Aswathi Nair**, a Computer Science Engineering graduate who enjoys exploring technology and solving problems through programming.
-
-- 🎓 Computer Science Engineering graduate.
-- 🐍 Learning Python and AI
-- 📊 Exploring Data Analysis and Data Visualization.
-- 🤖 Interested in Machine Learning and Artificial Intelligence.
-- 🚀 Building projects to develop practical skills.
-
----
 
 ## 🛠️ Technical Skills
 
@@ -56,18 +47,6 @@ Hi! I'm **Aswathi Nair**, a Computer Science Engineering graduate who enjoys exp
 </a>
 
 </div>
-
----
-
-## 🎯 My Career Goal
-
-To apply my programming knowledge, analytical thinking, and problem-solving skills to real-world challenges while building a career in Data Science and Machine Learning.
-
-<div align="center">
-
-### ✨ Learn Something New Every Day ✨
-
-**Keep Learning • Keep Building • Keep Growing 💜**
 
 </div>
 ```
