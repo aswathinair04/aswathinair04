@@ -1,4 +1,3 @@
-html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:667EEA,100:00C9FF&height=200&section=header&text=Hi%20there,%20I'm%20Aswathi Nair%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
@@ -6,8 +5,6 @@ html
 ### Computer Science Engineering Graduate | Aspiring Data Scientist
 
 *Passionate about Python, Data Analytics & Machine Learning.*
-
-🌸 **Learn • Build • Grow** 🌸
 
 </div>
 
@@ -22,7 +19,6 @@ Hi! I'm **Aswathi Nair**, a Computer Science Engineering graduate who enjoys exp
 - 📊 Exploring Data Analysis and Data Visualization.
 - 🤖 Interested in Machine Learning and Artificial Intelligence.
 - 🚀 Building projects to develop practical skills.
-- 🌱 Always learning and improving.
 
 ---
 
@@ -42,34 +38,6 @@ Hi! I'm **Aswathi Nair**, a Computer Science Engineering graduate who enjoys exp
 
 </div>
 
----
-
-## 📂 Featured Projects
-
-### 🧹 Data Cleaning and Analysis
-Working with CSV files using Python and Pandas to clean, organize, and analyze data.
-
-### 🔍 Dark Pattern Detection
-A project focused on analyzing websites and identifying potentially deceptive user-interface patterns.
-
-### 📈 Student Marks Prediction
-Exploring machine learning techniques to predict student performance using relevant features.
-
-> More projects coming soon! 🚀
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arshasaji4&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshasaji4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
