@@ -2,9 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Aswathi%20Nair%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 <h3 align="center">🐍 Python Developer | 🤖 Machine Learning</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;NumPy+%7C+Pandas+%F0%9F%93%8A;Matplotlib+%7C+Seaborn+%7C+Plotly+%F0%9F%93%88;Machine+Learning+%F0%9F%A4%96;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
+
+
 
 ## 🤝 Let's Connect
 
@@ -27,12 +30,15 @@
 </div>
 
 
+
 ### 🔒 About Me
 
 - 🎓 Computer Science Engineering Graduate
 - 🐍 Learning Python and AI
 - 📊 Exploring NumPy, Pandas, Matplotlib, Seaborn, and Plotly
 - 🤖 Learning Machine Learning algorithms and feature selection
+
+
 
 ## 🛠️ Technical Skills
 
@@ -45,8 +51,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
