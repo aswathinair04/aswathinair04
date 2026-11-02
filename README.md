@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:667EEA,100:00C9FF&height=200&section=header&text=Hi%20there,%20I'm%20Aswathi Nair%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
