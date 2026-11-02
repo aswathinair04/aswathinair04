@@ -3,16 +3,11 @@
 
 <h3 align="center">Computer Science Engineering Graduate | Python Developer</h3>
 
----
-
 ### 👩‍💻 About Me
 - 🎓 Computer Science Engineering graduate
 - 🐍 Learning Python and Data Science
 - 📊 Interested in Machine Learning and Data Analysis
 - 🌱 Currently improving my programming skills
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:667EEA,100:00C9FF&height=200&section=header&text=Hi%20there,%20I'm%20Aswathi Nair%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 ## 🛠️ Technical Skills
 
@@ -29,7 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
 
 ## 🤝 Let's Connect
 
@@ -50,4 +44,4 @@
 </div>
 
 </div>
-```
+
