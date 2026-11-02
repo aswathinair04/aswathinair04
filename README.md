@@ -1,14 +1,9 @@
 <h1 align="center"></h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Aswathi%20Nair%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
-<h1 align="center">Hi there, I'm Aswathi Nair 👋</h1>
 <h3 align="center">🐍 Python Developer | 🤖 Machine Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;NumPy+%7C+Pandas+%F0%9F%93%8A;Matplotlib+%7C+Seaborn+%7C+Plotly+%F0%9F%93%88;Machine+Learning+%F0%9F%A4%96;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <b>Learning | Building | Growing 🚀</b>
 </p>
 
 ---
@@ -16,19 +11,10 @@
 ### 🔒 About Me
 
 - 🎓 Computer Science Engineering Graduate
-- 🐍 Learning Python and Data Science
+- 🐍 Learning Python and AI
 - 📊 Exploring NumPy, Pandas, Matplotlib, Seaborn, and Plotly
 - 🤖 Learning Machine Learning algorithms and feature selection
-- 🚀 Passionate about solving problems through technology
 
-
-### 🔒 About Me
-
-- 🎓 Computer Science Engineering Graduate
-- 🐍 Learning Python and Data Science
-- 📊 Exploring NumPy, Pandas, Matplotlib, Seaborn, and Plotly
-- 🤖 Learning Machine Learning algorithms and feature selection
-- 🚀 Passionate about solving problems through technology
 ### 👩‍💻 About Me
 - 🎓 Computer Science Engineering graduate
 - 🐍 Learning Python and Data Science
@@ -55,15 +41,15 @@
 
 <div align="center">
 
-<a href="https://github.com/arshasaji4">
+<a href="https://github.com/Aswathinair04">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/arsha-s-07997b2a1/">
+<a href="https://www.linkedin.com/in/aswathinair04"/>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:aswathinair0404@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
