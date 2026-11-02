@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Aswathi Nair 👋</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Arsha%20S%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<h1 align="center"></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Aswathi%20Nair%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <h3 align="center">Computer Science Engineering Graduate | Python Developer</h3>
 
